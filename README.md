@@ -1,5 +1,7 @@
 # ListoGo - Project
 
+ ![Logo de ListoGo](images/github.png.)
+
 ## Contexte du projet
 
 ListoGo est un projet visant à améliorer l'esthétique visuelle et l'ergonomie globale du site web en intégrant de nouvelles pages et en assurant une expérience utilisateur fluide et réactive. Ce projet met l'accent sur le respect des meilleures pratiques UI/UX et la performance des pages.
