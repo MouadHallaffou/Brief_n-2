@@ -808,8 +808,8 @@ textarea::placeholder {
   line-height: 2.2rem;
 }
 
-.properties .contenu .tikets .decription .price-1 {
-  font-size: 2rem;
+.properties .contenu .tikets .decription .price-1{
+  font-size: 1.8rem;
   font-weight: 700;
   color: red;
   margin-left: 25rem;
