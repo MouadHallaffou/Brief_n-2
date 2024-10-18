@@ -303,7 +303,7 @@ h1 {
 }
 
 .see-all a {
-  font-size: 1.8rem;
+  font-size: 2rem;
   color: var(--primary-color);
   text-decoration: none;
   font-weight: 700;
@@ -313,14 +313,15 @@ h1 {
 .recently-tickets {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 8rem;
+  gap: 4rem;
 }
 
 .ticket {
   padding: 1rem;
-  border-radius: 2rem;
+  border-radius: 4rem;
   display: flex;
   align-items: center;
+  justify-content: space-around;
   border: var(--bg-color) solid 0.2rem;
 }
 
@@ -329,15 +330,13 @@ h1 {
 }
 
 .ticket .image {
-  margin-right: 1.5rem;
-  padding-left: 2rem;
-  width: 40%;
+  max-width: 40%;
 }
 
 .ticket .image img {
   border-radius: 1rem;
-  width: 20rem;
-  height: 26rem;
+  width: 25rem;
+  height: 30rem;
 }
 
 .ticket .info {
@@ -345,6 +344,7 @@ h1 {
   flex-direction: column;
   line-height: 10rem;
   margin-left: 4rem;
+  align-items: center;
 }
 
 .ticket .info h3 {
@@ -356,18 +356,17 @@ h1 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  gap: 1rem;
+  gap: 5rem;
   font-size: 1.4rem;
   list-style-type: none;
-  padding: 0;
-  margin: 0;
+
 }
 
 .ticket .info .bottom-info {
   display: flex;
-  justify-content: space-between;
+  justify-content:center;
   align-items: center;
-  margin-top: 1rem;
+  gap: 2rem;
 }
 
 .ticket .info .authour {
