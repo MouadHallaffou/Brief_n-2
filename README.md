@@ -1,6 +1,6 @@
 # ListoGo - Project
 
- ![Logo de ListoGo](images/github.png.)
+ ![Logo de ListoGo](images/Logo.webp)
 
 ## Contexte du projet
 
